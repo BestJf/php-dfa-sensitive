@@ -1,12 +1,12 @@
 {
-    "name": "BestJf/php-dfa-sensitive",
+    "name": "bestjf/php-dfa-sensitive",
     "description": "To achieve the filtering of sensitive words, based on the determination of finite automata (DFA) algorithm.",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "BestJf",
-            "email": "BestJf@163.com"
+            "name": "bestjf",
+            "email": "bestjf@163.com"
         }
     ],
     "minimum-stability": "stable",
