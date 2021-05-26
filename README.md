@@ -10,10 +10,10 @@ php实现基于确定有穷自动机算法的铭感词过滤 https://packagist.o
 
 ### 安装扩展 
 
-    composer require lustre/php-dfa-sensitive
+    composer require bestjf/php-dfa-sensitive
    
 * 注意:如果你在使用composer安装时，出现                    
-  Could not find package lustre/php-dfa-sensitive at any version for your minimum-stability (stable). Check the package spelling or your minimum-stability 请在你的composer.json中加入<code>"minimum-stability": "dev"</code>
+  Could not find package bestjf/php-dfa-sensitive at any version for your minimum-stability (stable). Check the package spelling or your minimum-stability 请在你的composer.json中加入<code>"minimum-stability": "dev"</code>
    
         
 
